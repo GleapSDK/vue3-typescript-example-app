@@ -1,4 +1,8 @@
-# typescript-app
+# Gleap Vue 3 Example
+
+Vue 3 example integrating the Gleap JavaScript SDK for in-app customer support, live chat and customer feedback.
+
+[Integration documentation](https://docs.gleap.ai/documentation/javascript/README) · [Gleap](https://www.gleap.ai)
 
 ## Project setup
 ```
